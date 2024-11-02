@@ -1,0 +1,24 @@
+div {
+    height: 500px;
+    width: 500px;
+}
+
+.homePage {
+    background-color: rgb(255, 255, 255);
+}
+
+.aboutPage {
+    background-color: yellow;
+}
+
+.resumePage {
+    background-color: lightblue;
+}
+
+.projectsPage {
+    background-color: pink;
+}
+
+.contactPage {
+    background-color: lavender;
+}

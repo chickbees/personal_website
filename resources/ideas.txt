@@ -1,0 +1,22 @@
+Just some notes of some ideas so I don't forget
+
+Website sections:
+1. Eye-catching introduction page
+2. About
+3. Skills/work/education
+4. Projecs
+5. Contact
+
+Will need a navigation bar with the below sections:
+1. Home
+2. About
+3. Resume
+4. Projects
+5. Contact
+
+Still deciding if it will be a floating navigation bar, fixed, etc
+
+The website instead of a scrolling action, should be transition to the next section.
+These sections should be full page size. The scrollbar should be removed and maybe changed with some
+highlighting of the section either on the navigation bar, some dots on the side, or both. Will also
+most likely need to implement some sort of footer at the bottom so it's not empty.
