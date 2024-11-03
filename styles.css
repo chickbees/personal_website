@@ -1,24 +1,49 @@
-div {
-    height: 500px;
-    width: 500px;
+body {
+    background-color: salmon;
+}
+
+.fullPage {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .homePage {
     background-color: rgb(255, 255, 255);
+    flex-grow: 1;
+    flex-basis: auto;
+    height: 95vh;
+    width: auto;
 }
 
 .aboutPage {
     background-color: yellow;
+    flex-grow: 1;
+    flex-basis: auto;
+    height: 95vh;
+    width: auto;
 }
 
 .resumePage {
     background-color: lightblue;
+    flex-grow: 1;
+    flex-basis: auto;
+    height: 95vh;
+    width: auto;
 }
 
 .projectsPage {
     background-color: pink;
+    flex-grow: 1;
+    flex-basis: auto;
+    height: 95vh;
+    width: auto;
 }
 
 .contactPage {
     background-color: lavender;
+    flex-grow: 1;
+    flex-basis: auto;
+    height: 95vh;
+    width: auto;
 }
